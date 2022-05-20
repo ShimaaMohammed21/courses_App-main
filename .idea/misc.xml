@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/action_sort.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/btn.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/edit.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/ic_action_search.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/drawable/logo_background.xml" value="0.194" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/font/abeezee.xml" value="0.234375" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/font/architects_daughter.xml" value="0.234375" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/activity_add_course.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/courses_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/fragment_chat.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/fragment_courses.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/fragment_my_courses.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/layout/my_courses_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/menu/action.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/mipmap-anydpi-v26/l.xml" value="0.1" />
+        <entry key="..\:/Users/gt/AndroidStudioProjects/courses_Appmain/app/src/main/res/mipmap-anydpi-v26/l_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
